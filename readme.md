@@ -145,13 +145,13 @@ Do not use it for unauthorized monitoring of systems.
 
 ## Version
 
-Current Version: 1.0.0
+Current Version: 1.0.7
 
 ---
 
 ## Author
 
-Kshitij
+scambaiterKshitij
 
 ---
 
