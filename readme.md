@@ -60,7 +60,7 @@ No external Python libraries required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Core-defense-Handling-User-Access-Authentication-Automated-Script.git
+git clone https://github.com/scambaiterkshitij/Core-defense-Handling-User-Access-Authentication-Automated-Script.git
 cd Core-defense-Handling-User-Access-Authentication-Automated-Script
 ```
 
